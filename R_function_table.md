@@ -21,7 +21,7 @@ table(...,
 
       deparse.level = 1
       # 见例3
-)
+      )
 ```
 
 ###### 例1 exclude参数
