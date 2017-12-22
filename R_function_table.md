@@ -60,7 +60,7 @@ table(a, sample(a), deparse.level = 0) # dnn is c("", "")
 table(a, sample(a), deparse.level = 2) # dnn is c("a", "sample(a)")
 ```
 
-###2 table()输出对象的操作
+### 2 table()输出对象的操作
 * addmargins
 
 ``` R
